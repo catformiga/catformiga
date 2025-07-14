@@ -4,7 +4,7 @@ Aqui no GitHub compartilho meus primeiros projetos, aprendizados e desafios. Cad
 
 Sinta-se à vontade para explorar meus repositórios, acompanhar minha evolução ou trocar uma ideia! 🚀
 
- 👋
+ 
 
 <!--
 **catformiga/catformiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
