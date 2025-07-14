@@ -1,4 +1,10 @@
-### Hi there 👋
+### Hi there,Sou a Catarine, atualmente em transição de carreira e iniciando minha jornada como desenvolvedora de software. Estou estudando no programa Desenvolve, do Grupo Boticário, pela escola Kuru, com foco em Desenvolvimento de Software.
+
+Aqui no GitHub compartilho meus primeiros projetos, aprendizados e desafios. Cada commit representa um passo na construção de uma nova história profissional — com muito esforço, dedicação e paixão por tecnologia.
+
+Sinta-se à vontade para explorar meus repositórios, acompanhar minha evolução ou trocar uma ideia! 🚀
+
+ 👋
 
 <!--
 **catformiga/catformiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
