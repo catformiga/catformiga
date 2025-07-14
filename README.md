@@ -7,7 +7,7 @@
 🎮 **Estudante de Programação**  
 Psicóloga em transição de carreira, atualmente participando do programa **Desenvolve**, uma iniciativa do **Grupo Boticário** em parceria com a **Koru**, com foco em **Desenvolvimento de Software**.
 
-💡 Apaixonada por tecnologia e psicologia, busco desenvolver **soluções práticas e criativas** que unam o melhor dos dois mundos — tecnologia que entende e transforma a experiência das pessoas.
+💡 Apaixonada por tecnologia e psicologia, busco desenvolver soluções práticas e criativas que unam o melhor dos dois mundos — tecnologia que entende e transforma a experiência das pessoas.
 
 ---
 
@@ -16,14 +16,8 @@ Psicóloga em transição de carreira, atualmente participando do programa **Des
 Olá! Sou a Catarine e estou iniciando minha jornada como desenvolvedora de software.  
 Aqui no GitHub compartilho meus **primeiros projetos, aprendizados e desafios**.
 
-Cada passo que dou representa o início de uma **nova história profissional** — com muito **esforço, dedicação e paixão por tecnologia**.
+Cada passo que dou representa o início de uma nova história profissional — com muito esforço, dedicação e paixão por tecnologia.
 
 Sinta-se à vontade para explorar meus repositórios, acompanhar minha evolução ou trocar uma ideia! 🚀
 
 ---
-
-<div>
-   <a href="https://github.com/catformiga">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=catformiga&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=catformiga&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
