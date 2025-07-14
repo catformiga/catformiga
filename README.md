@@ -2,7 +2,7 @@
 **catformiga/catformiga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 -->
 
-# 👩🏻‍💻 Catarina Formiga
+# 👩🏻‍💻 Catarine Formiga
 
 🎮 **Estudante de Programação**  
 Psicóloga em transição de carreira, atualmente participando do programa **Desenvolve**, uma iniciativa do **Grupo Boticário** em parceria com a **Koru**, com foco em **Desenvolvimento de Software**.
